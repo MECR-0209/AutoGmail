@@ -12,18 +12,19 @@ Esse é um script simples feito com a linguagem Python, usando as bibliotecas Py
 ## Como usar?
 
 * Na caixa "destinatário", o usuário irá colocar o e-mail da pessoa no qual ele irá mandar - caso ele queira, pode colocar vários destinatários, colocando uma pequena vírgula após o primeiro email.
-Exemplo: abc@gmail.com, xyz@gmail.com.
+
+* Exemplo: colocar os destinatários como abc@gmail.com, def@gmail.com.
 
 * Na caixa assunto, irá colocar o assunto do e-mail no qual ele irá enviar.
 
 * Na última caixa, ele irá colocar o e-mail no qual ele irá enviar.
 
-## Lista de coisas para fazer:
+## Lista de coisas para fazer (talvez em outro programa):
 
 * Melhorar a interface visual;
-* Colocar suporte para outros emails;
-* Suporte para anexar arquivos;
-* Suporte a assinatura do remetente;
+* Adicionar suporte para outros serviços de email;
+* Adicionar suporte para anexar arquivos;
+* Adicionar suporte a assinatura do remetente;
 
 ## Créditos
 
