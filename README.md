@@ -5,9 +5,9 @@ Esse é um script simples feito com a linguagem Python, usando as bibliotecas Py
 ## Antes de usar o script, leia:
 
 * Esse script por enquanto está funcionando apenas no Gmail, e para funcionar, é necessário que seja habilitado também a opção de teclas de atalho.
-* Caso não saiba como fazer isso, pode ser verififcado através do link abaixo no Suporte do Google.
+* Caso não saiba como fazer isso, pode ser verificado através do link abaixo no Suporte do Google.
 
-[Como habilitar teclas de atalho no Gmail](https://support.google.com/mail/answer/6594?hl=pt-BR&co=GENIE.Platform%3DDesktop)
+[Como habilitar teclas de atalho no Gmail;](https://support.google.com/mail/answer/6594?hl=pt-BR&co=GENIE.Platform%3DDesktop)
 
 ## Como usar?
 
