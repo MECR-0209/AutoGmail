@@ -22,6 +22,8 @@ Exemplo: abc@gmail.com, xyz@gmail.com.
 
 * Melhorar a interface visual;
 * Colocar suporte para outros emails;
+* Suporte para anexar arquivos;
+* Suporte a assinatura do remetente;
 
 ## Créditos
 
