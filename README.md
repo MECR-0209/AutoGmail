@@ -1,4 +1,4 @@
-# Gmail Script v1.0.2 -
+# Gmail Script v1.0.2
 
 Esse é um script simples feito com a linguagem Python, usando as bibliotecas PyAutoGUI para a automatização e a bibilioteca CTKINTER (Custom TKinter).
 
@@ -17,6 +17,11 @@ Exemplo: abc@gmail.com, xyz@gmail.com.
 * Na caixa assunto, irá colocar o assunto do e-mail no qual ele irá enviar.
 
 * Na última caixa, ele irá colocar o e-mail no qual ele irá enviar.
+
+## Lista de coisas para fazer:
+
+* Melhorar a interface visual;
+* Colocar suporte para outros emails;
 
 ## Créditos
 
