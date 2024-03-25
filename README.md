@@ -1,4 +1,4 @@
-# Gmail Script v1.0.2
+# Gmail Script v1.0
 
 Esse é um script simples feito com a linguagem Python, usando as bibliotecas PyAutoGUI para a automatização e a bibilioteca CTKINTER (Custom TKinter).
 
